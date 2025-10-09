@@ -1,10 +1,5 @@
 # personal assistance
 
-This project created in python language .
-
-
-Your Python project is a **Voice Assistant** — similar to Alexa, Siri, or Google Assistant — named **“Zeera”**.
-
 
 ## 🧠 Project Overview: “Zeera – AI Voice Assistant”
 
