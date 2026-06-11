@@ -68,7 +68,7 @@ Zeera is an **intelligent voice-controlled assistant** that listens to your voic
 
 
 
-## 🧩 Project Summary
+## 🧩 Project Summary.
 
 **Project Name:** Zeera – Voice Controlled Assistant
 **Main Role:** Responds to voice commands and automates common desktop/internet tasks.
