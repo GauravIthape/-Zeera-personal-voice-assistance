@@ -6,7 +6,7 @@
 **Purpose:**
 Zeera is an **intelligent voice-controlled assistant** that listens to your voice commands, performs tasks like searching Wikipedia, opening websites, telling time, playing songs, cracking jokes, fetching news headlines, and more.
 
----
+--- 
 
 ## ⚙️ Main Technologies Used
 
